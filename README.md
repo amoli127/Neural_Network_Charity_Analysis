@@ -27,3 +27,4 @@ The purpose of this analysis is to create a predictive model using deep learning
 
 Overall, the deep learning model achieved a moderate level of accuracy but fell short of the target performance of 75%. Despite several attempts to optimize the model, the highest accuracy obtained was below the desired threshold.
 
+Additionally, exploring feature engineering techniques could be beneficial. This involves creating new relevant features or applying dimensionality reduction methods to improve the quality and representation of the input data. By carefully selecting and transforming features, we can extract more meaningful information and enhance the model's performance.
